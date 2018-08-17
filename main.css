@@ -97,6 +97,10 @@ padding: 5px;
 {
     color: white;
     background: blue;
-    border-color: white;
+    border-color: #bfd6ee;
     text-decoration: none;
+}
+.price{
+    padding: 20px 0;
+    margin: 10px 0;
 }
