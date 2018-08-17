@@ -23,7 +23,7 @@
 .desc{
     color: #bdbac8;
     font-size: 14px;
-    border-bottom: 1px solid #bdbac8;
+    border-bottom: 1px solid #e1e8ee;
     padding-bottom: 20px;
 }
 .color{
@@ -58,7 +58,10 @@
     font-size: 12px !important;
     border-color: #c2bebe !important;
 }
-
+.question{
+    border-bottom:1px solid #e1e8ee;
+    padding-bottom: 15px;
+}
 .question a{
     font-size: 12px;
 }
@@ -97,4 +100,12 @@
 .price{
     padding: 20px 0;
     margin: 10px 0;
+    
+}
+.cost{
+    color: #6e7176;
+    font-size: 23px;
+}
+.price button{
+    margin-left: 20px;
 }
