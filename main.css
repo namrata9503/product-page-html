@@ -1,6 +1,7 @@
 .red-headphone{
-    max-width: 650px;
-    padding: 0;
+    max-width: 620px;
+    height: 600px;
+    margin-top: 150px;
 }
 .infor{
     padding: 75px;
@@ -32,7 +33,7 @@
     border-radius: 50% !important;
     width: 45px;
   height: 45px;
-  border: 2px solid #a7a4b6;
+  border: 2px solid #a7a4b6 !important ;
   
 }
 .red{
@@ -55,21 +56,14 @@
 .btn-outline-secondary
 {
     font-size: 12px !important;
+    border-color: #c2bebe !important;
 }
-.que-icon{
-    border-radius: 50% !important;
-    
-padding: 5px;
-  margin: 20px 0;
-  border: 2px solid #d2e6f6;
-  font-size: 12px;
 
-}
 .question a{
     font-size: 12px;
 }
 .que-link{
-    font-size: 10px;
+    font-size: 15px;
     text-decoration: none;
 
 }
@@ -82,14 +76,14 @@ padding: 5px;
     text-align: center;
     width: 1.8ex;
     height: 1.8ex;
-    font-size: 1.4ex;
+    font-size: 2.4ex;
     line-height: 1.8ex;
     border-radius: 1.2ex;
     margin-right: 4px;
     padding: 1px;
-    color: blue;
+    color: #b2d4f0;
     background: white;
-    border: 1px solid blue;
+    border: 1px solid #b2d4f0;
     text-decoration: none;
 }
 
