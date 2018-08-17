@@ -1,9 +1,11 @@
-.blue-headphone{
+.red-headphone{
     max-width: 650px;
     padding: 0;
 }
 .infor{
     padding: 75px;
+    width: 550px;
+    margin-top: 50px;
 }
 .title{
     font-size: 15px;
@@ -22,4 +24,79 @@
     font-size: 14px;
     border-bottom: 1px solid #bdbac8;
     padding-bottom: 20px;
+}
+.color{
+    color: #b3b9c1;
+}
+.btn-round{
+    border-radius: 50% !important;
+    width: 45px;
+  height: 45px;
+  border: 2px solid #a7a4b6;
+  
+}
+.red{
+    background-color: #c91524;
+
+}
+.blue{
+    background-color: #314780;
+
+}
+.black{
+    background-color: #323232;
+
+}
+.configuration{
+    color: #bdbac8;
+    font-size: 14px;
+    padding: 20px 0;
+}
+.btn-outline-secondary
+{
+    font-size: 12px !important;
+}
+.que-icon{
+    border-radius: 50% !important;
+    
+padding: 5px;
+  margin: 20px 0;
+  border: 2px solid #d2e6f6;
+  font-size: 12px;
+
+}
+.question a{
+    font-size: 12px;
+}
+.que-link{
+    font-size: 10px;
+    text-decoration: none;
+
+}
+.que-link:before
+{
+    content: '?';
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    width: 1.8ex;
+    height: 1.8ex;
+    font-size: 1.4ex;
+    line-height: 1.8ex;
+    border-radius: 1.2ex;
+    margin-right: 4px;
+    padding: 1px;
+    color: blue;
+    background: white;
+    border: 1px solid blue;
+    text-decoration: none;
+}
+
+.que-link:hover:before
+{
+    color: white;
+    background: blue;
+    border-color: white;
+    text-decoration: none;
 }
