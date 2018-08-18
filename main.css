@@ -21,8 +21,8 @@ p,a{
     font-size: 15px;
     text-transform: uppercase;
     
-    color: #559cdf;
-    font-weight: 600;
+    color: #358ed7;
+    font-weight: 400;
 }
 .prod-name{
     margin: 30px auto;
@@ -110,13 +110,13 @@ p,a{
 .que-link:hover:before
 {
     color: white;
-    background: blue;
+    background: #358ed7;
     border-color: #bfd6ee;
     text-decoration: none;
 }
 .price{
-    padding: 20px 0;
-    margin: 10px 0;
+    padding: 10px 0;
+    margin: 1px 0;
     
 }
 .cost{
